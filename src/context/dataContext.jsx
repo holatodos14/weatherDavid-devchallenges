@@ -30,7 +30,6 @@ export const DataContextProvider = ({ children }) => {
         `https://api.openweathermap.org/geo/1.0/reverse?lat=${lat}&lon=${lon}&appid=cd3a425304d02735c79429500819f184`
       );
       const results = await response.json();
-      console.log("results", results);
       setLocation(results && results[0]?.name);
     } catch (error) {
       console.error(error);
