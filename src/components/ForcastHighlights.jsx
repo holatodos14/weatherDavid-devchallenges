@@ -145,9 +145,9 @@ export const ForcastHighlights = () => {
           <footer className="text-gray-500 text-sm text-center mt-[80px] font-mont font-medium">
             created by{" "}
             <span className="text-gray-500 font-bold  text-sm underline">
-              <a href="https://github.com/aakashrajput201">David Cambeiro </a>{" "}
+              <a href="https://github.com/holatodos14">David Cambeiro </a>{" "}
             </span>
-            <a href="https://devchallenges.io/challenges/mM1UIenRhK808W8qmLWv">
+            <a href="https://www.figma.com/design/5X3Ao3gEqZPqqKctP7riDF/weather-app?node-id=0-1&t=VM7IAIBC6HK1XamW-0">
               @ devChallenges.io
             </a>
           </footer>
